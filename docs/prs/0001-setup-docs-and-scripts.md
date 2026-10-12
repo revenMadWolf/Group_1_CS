@@ -15,6 +15,7 @@ Sets up the initial repo structure for collaborative work.
   - `design/`: design docs, specs, and diagrams
   - `review/`: code reviews and retrospectives
 - **`scripts/`**: Python scripts for the project
+- **`CONTRIBUTING.md`**: step-by-step guide to branching, opening PRs (1 approval required), and using the `docs/` folders. GitHub Desktop first, with command-line alternatives
 
 Each directory has a `README.md` describing its purpose (and, for `docs/`, a suggested file naming convention). This also keeps the otherwise-empty folders tracked by git.
 
